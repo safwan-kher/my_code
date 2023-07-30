@@ -1,0 +1,8 @@
+Beam Length: 10.0
+Supports:
+  FIXED, 0.0, 100.0, 0.0
+  PINNED, 0.0, 50.0, 0.0
+Loads:
+  UNIFORM_LOAD, 20.0
+  POINT_LOAD, 50.0
+Cross-Section: 100.0, 5000.0
